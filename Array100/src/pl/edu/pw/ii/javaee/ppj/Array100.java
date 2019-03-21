@@ -56,8 +56,6 @@ public class Array100 {
 			}
 		}
 		System.out.println(uniqueArr);
-		System.out.println(uniqueArr.size());
-		System.out.println(uniqueArr.contains(2));
 		
 		
 		// Wylicza najmniejsz¹ wartoœæ tablicy
